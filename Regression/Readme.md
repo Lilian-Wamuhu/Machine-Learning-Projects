@@ -54,7 +54,7 @@ You can download the files we will use in this project here:
 
 This dataset can be used for regression analysis to predict the median value of owner-occupied homes based on the available features. It can also be used for exploratory data analysis and visualization to gain insights about the relationships between the features and the target variable.
 
-Steps for using the dataset:
+Steps to follow when using the dataset:
 
 1. Clone the repository to your local machine:
 git clone https://github.com/Lilian-Wamuhu/Machine-Learning-Projects/tree/main/Regression
